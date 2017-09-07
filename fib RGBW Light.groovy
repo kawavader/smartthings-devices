@@ -17,7 +17,7 @@
  */
 
 metadata {
-	definition (name: "fib RGBW Light", namespace: "smartthings", author: "SmartThings") {
+	definition (name: "fib RGBW Light", namespace: "smartthings-devices", author: "kawavader") {
 		capability "Switch Level"
 		capability "Color Control"
 		capability "Color Temperature"
